@@ -1,0 +1,7 @@
+title: Afeez
+logo: assets/images/profile_pic.png
+# description: xxx
+show_downloads: True
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-remote-theme
